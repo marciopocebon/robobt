@@ -1,5 +1,4 @@
-# robobt
-## Robô BT
+# Robô BT
 Robô controlado por bluetooth que pode ser usado em vários projetos de robótica educacional, como por exemplo torneios de combate (estourar balão) e robôs exploradores.  
 
 [![robô BT](http://img.youtube.com/vi/8t1rnAnwjbA/0.jpg)](http://www.youtube.com/watch?v=8t1rnAnwjbA "Robô BT")
